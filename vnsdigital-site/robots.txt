@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vns-digital.pages.dev/sitemap.xml
